@@ -1,0 +1,26 @@
+<annotation>
+	<folder>resized</folder>
+	<filename>sardine (48).jpg</filename>
+	<path>C:\Users\Joskillz\Desktop\resized\sardine (48).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sardine_brain food</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>35</xmin>
+			<ymin>115</ymin>
+			<xmax>154</xmax>
+			<ymax>222</ymax>
+		</bndbox>
+	</object>
+</annotation>

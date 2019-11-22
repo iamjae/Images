@@ -1,0 +1,38 @@
+<annotation>
+	<folder>train</folder>
+	<filename>chicken breast (49).jpg</filename>
+	<path>C:\Users\Joskillz\Documents\GitHub\images\train\chicken breast (49).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>chicken breast_brain food</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>56</xmin>
+			<ymin>59</ymin>
+			<xmax>137</xmax>
+			<ymax>217</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>chicken breast_brain food</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>164</xmin>
+			<ymin>70</ymin>
+			<xmax>238</xmax>
+			<ymax>202</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,38 @@
+<annotation>
+	<folder>train</folder>
+	<filename>mushroom (34).jpg</filename>
+	<path>C:\Users\Joskillz\Documents\GitHub\images\train\mushroom (34).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mushroom_brain food</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>134</xmin>
+			<ymin>147</ymin>
+			<xmax>213</xmax>
+			<ymax>203</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>milk_brain food</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>121</xmin>
+			<ymin>32</ymin>
+			<xmax>179</xmax>
+			<ymax>66</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>resized</folder>
+	<filename>spinach (47).jpg</filename>
+	<path>C:\Users\Joskillz\Desktop\resized\spinach (47).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>spinach_brain food</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>130</xmin>
+			<ymin>82</ymin>
+			<xmax>271</xmax>
+			<ymax>227</ymax>
+		</bndbox>
+	</object>
+</annotation>

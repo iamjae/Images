@@ -1,0 +1,26 @@
+<annotation>
+	<folder>resized</folder>
+	<filename>milk (42).jpg</filename>
+	<path>C:\Users\Joskillz\Desktop\resized\milk (42).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>milk_brain food</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>56</xmin>
+			<ymin>114</ymin>
+			<xmax>152</xmax>
+			<ymax>256</ymax>
+		</bndbox>
+	</object>
+</annotation>

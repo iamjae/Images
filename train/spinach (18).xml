@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>spinach (18).jpg</filename>
+	<path>C:\Users\Joskillz\Documents\GitHub\images\train\spinach (18).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>spinach_brain food</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>70</xmin>
+			<ymin>55</ymin>
+			<xmax>232</xmax>
+			<ymax>229</ymax>
+		</bndbox>
+	</object>
+</annotation>

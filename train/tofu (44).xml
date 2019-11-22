@@ -1,0 +1,38 @@
+<annotation>
+	<folder>resized</folder>
+	<filename>tofu (44).jpg</filename>
+	<path>C:\Users\Joskillz\Desktop\resized\tofu (44).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tofu_brain food</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>83</xmin>
+			<ymin>161</ymin>
+			<xmax>183</xmax>
+			<ymax>263</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>tofu_brain food</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>170</xmin>
+			<ymin>5</ymin>
+			<xmax>258</xmax>
+			<ymax>58</ymax>
+		</bndbox>
+	</object>
+</annotation>

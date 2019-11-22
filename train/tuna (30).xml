@@ -1,0 +1,38 @@
+<annotation>
+	<folder>resized</folder>
+	<filename>tuna (30).jpg</filename>
+	<path>C:\Users\Joskillz\Desktop\resized\tuna (30).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tuna_brain food</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>70</xmin>
+			<ymin>92</ymin>
+			<xmax>229</xmax>
+			<ymax>273</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>tuna_brain food</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>134</xmin>
+			<ymin>9</ymin>
+			<xmax>246</xmax>
+			<ymax>66</ymax>
+		</bndbox>
+	</object>
+</annotation>

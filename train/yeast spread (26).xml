@@ -1,0 +1,50 @@
+<annotation>
+	<folder>resized</folder>
+	<filename>yeast spread (26).jpg</filename>
+	<path>C:\Users\Joskillz\Desktop\resized\yeast spread (26).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>yeast spread_brain food</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3</xmin>
+			<ymin>102</ymin>
+			<xmax>97</xmax>
+			<ymax>211</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>yeast spread_brain food</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>102</xmin>
+			<ymin>34</ymin>
+			<xmax>199</xmax>
+			<ymax>182</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>yeast spread_brain food</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>205</xmin>
+			<ymin>88</ymin>
+			<xmax>296</xmax>
+			<ymax>233</ymax>
+		</bndbox>
+	</object>
+</annotation>

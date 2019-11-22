@@ -1,0 +1,50 @@
+<annotation>
+	<folder>test</folder>
+	<filename>sweet potato (7).jpg</filename>
+	<path>C:\Users\Joskillz\Documents\GitHub\images\test\sweet potato (7).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sweet potato_brain food</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>56</xmin>
+			<ymin>133</ymin>
+			<xmax>164</xmax>
+			<ymax>254</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>sweet potato_brain food</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>102</xmin>
+			<ymin>46</ymin>
+			<xmax>227</xmax>
+			<ymax>116</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>sweet potato_brain food</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>188</xmin>
+			<ymin>155</ymin>
+			<xmax>234</xmax>
+			<ymax>288</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,38 @@
+<annotation>
+	<folder>resized</folder>
+	<filename>salmon (41).jpg</filename>
+	<path>C:\Users\Joskillz\Desktop\resized\salmon (41).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>salmon_brain food</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>49</xmin>
+			<ymin>101</ymin>
+			<xmax>255</xmax>
+			<ymax>213</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>salmon_brain food</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>45</xmin>
+			<ymin>9</ymin>
+			<xmax>242</xmax>
+			<ymax>87</ymax>
+		</bndbox>
+	</object>
+</annotation>

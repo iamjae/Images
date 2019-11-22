@@ -1,0 +1,38 @@
+<annotation>
+	<folder>train</folder>
+	<filename>yeast spread (42).jpg</filename>
+	<path>C:\Users\Joskillz\Documents\GitHub\images\train\yeast spread (42).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>yeast spread_brain food</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>162</xmin>
+			<ymin>146</ymin>
+			<xmax>207</xmax>
+			<ymax>187</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>yeast spread_brain food</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>50</xmin>
+			<ymin>83</ymin>
+			<xmax>157</xmax>
+			<ymax>225</ymax>
+		</bndbox>
+	</object>
+</annotation>

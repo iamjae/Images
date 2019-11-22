@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>vegetable oil (31).jpg</filename>
+	<path>C:\Users\Joskillz\Documents\GitHub\images\train\vegetable oil (31).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>vegetable oil_brain food</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>43</xmin>
+			<ymin>68</ymin>
+			<xmax>221</xmax>
+			<ymax>249</ymax>
+		</bndbox>
+	</object>
+</annotation>

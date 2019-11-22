@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>green pea (38).jpg</filename>
+	<path>C:\Users\Joskillz\Documents\GitHub\images\train\green pea (38).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>green pea_brain food</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>201</xmin>
+			<ymin>55</ymin>
+			<xmax>290</xmax>
+			<ymax>149</ymax>
+		</bndbox>
+	</object>
+</annotation>

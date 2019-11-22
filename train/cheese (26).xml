@@ -1,0 +1,38 @@
+<annotation>
+	<folder>train</folder>
+	<filename>cheese (26).jpg</filename>
+	<path>C:\Users\Joskillz\Documents\GitHub\images\train\cheese (26).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cheese_brain food</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>44</xmin>
+			<ymin>84</ymin>
+			<xmax>129</xmax>
+			<ymax>229</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>cheese_brain food</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>148</xmin>
+			<ymin>93</ymin>
+			<xmax>248</xmax>
+			<ymax>228</ymax>
+		</bndbox>
+	</object>
+</annotation>

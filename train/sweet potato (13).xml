@@ -1,0 +1,26 @@
+<annotation>
+	<folder>resized</folder>
+	<filename>sweet potato (13).jpg</filename>
+	<path>C:\Users\Joskillz\Desktop\resized\sweet potato (13).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sweet potato_brain food</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>63</xmin>
+			<ymin>68</ymin>
+			<xmax>217</xmax>
+			<ymax>219</ymax>
+		</bndbox>
+	</object>
+</annotation>

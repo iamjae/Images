@@ -1,0 +1,38 @@
+<annotation>
+	<folder>train</folder>
+	<filename>liver (14).jpg</filename>
+	<path>C:\Users\Joskillz\Documents\GitHub\images\train\liver (14).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>liver_brain food</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>87</xmin>
+			<ymin>77</ymin>
+			<xmax>164</xmax>
+			<ymax>149</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>liver_brain food</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>183</xmin>
+			<ymin>104</ymin>
+			<xmax>231</xmax>
+			<ymax>169</ymax>
+		</bndbox>
+	</object>
+</annotation>
